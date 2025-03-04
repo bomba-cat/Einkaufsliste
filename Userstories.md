@@ -1,6 +1,6 @@
 ### 1. Produkt hinzufügen  
 **Als Benutzer** möchte ich ein Produkt mit Name, Menge und Ort zur Einkaufsliste hinzufügen,  
-**damit** ich weiß, was ich wo einkaufen muss.
+**damit** ich weiss, was ich wo einkaufen muss.
 
 **Akzeptanzkriterien:**  
 - Produktname, Menge, Ort können eingegeben werden.  
